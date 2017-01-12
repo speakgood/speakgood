@@ -1,7 +1,6 @@
 body {
 	background-color: #CEE0F1;
-	margin: 0px;
-	padding: 0px;
+
 }
 
 div#login {
@@ -14,10 +13,15 @@ div#cadastro {
 }
 
 h1 {
-	font-family: "accid";
+	font-family: accid;
 }
 
 @font-face {
-font-family: "accid";
-src: url("/font/accid__.ttf") format("truetype");
+font-family: accid;
+src: url("accid___.ttf");
+font-weight: bold;
+}
+
+.accid {
+	font-family:accid;
 }
