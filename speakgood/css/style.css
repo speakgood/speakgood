@@ -1,5 +1,7 @@
 body {
 	background-color: #CEE0F1;
+	margin: 0px;
+	padding: 0px;
 
 }
 
@@ -7,9 +9,21 @@ div#login {
 	background-color: #5387B9;
 }
 
+div#loginint {
+	position: relative;
+	left:75%;
+	top: 16px;
+}
+
 
 div#cadastro {
 	background-color: #FFFFFF;
+}
+
+div#cadastroint {
+	position: relative;
+	left:3%;
+	top: 23px;
 }
 
 h1 {
@@ -24,4 +38,9 @@ font-weight: bold;
 
 .accid {
 	font-family:accid;
+}
+
+h1#logo{
+	position: relative;
+	top: 36px;
 }
