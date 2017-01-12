@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div#login .login {
+    left: 90%;
+}
+
+
+form#cadastro {
+    right: 50%;
+}
