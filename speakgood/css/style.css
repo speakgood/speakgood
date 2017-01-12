@@ -12,3 +12,12 @@ div#login {
 div#cadastro {
 	background-color: #FFFFFF;
 }
+
+h1 {
+	font-family: "accid";
+}
+
+@font-face {
+font-family: "accid";
+src: url("/font/accid__.ttf") format("truetype");
+}
