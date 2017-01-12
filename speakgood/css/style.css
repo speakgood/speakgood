@@ -1,13 +1,14 @@
 body {
-    margin: 0;
-    padding: 0;
+	background-color: #CEE0F1;
+	margin: 0px;
+	padding: 0px;
 }
 
-div#login .login {
-    left: 90%;
+div#login {
+	background-color: #5387B9;
 }
 
 
-form#cadastro {
-    right: 50%;
+div#cadastro {
+	background-color: #FFFFFF;
 }
