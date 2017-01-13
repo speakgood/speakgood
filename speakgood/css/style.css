@@ -9,10 +9,11 @@ div#login {
 	background-color: #5387B9;
 }
 
-div#loginint {
+#loginint {
 	position: relative;
-	left:75%;
-	top: 16px;
+	top:-16px;
+	vertical-align: center auto;
+	width: 460px;
 }
 
 
@@ -24,6 +25,7 @@ div#cadastroint {
 	position: relative;
 	left:3%;
 	top: 23px;
+	width: 600px;
 }
 
 h1 {
